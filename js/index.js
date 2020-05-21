@@ -1,5 +1,5 @@
 const words = [
-    '娴', 'Love', 'Amour', 'Liebe', 'Amore',
+    '杨', 'Love', 'Amour', 'Liebe', 'Amore',
     'Amor', 'Любовь', 'الحب', 'प्यार', 'Cinta',
     'Αγάπη', '사랑', 'Liefde', 'Dashuri', 'Каханне',
     'Ljubav', 'Láska', 'Armastus', 'Mahal', 'אהבה', 
